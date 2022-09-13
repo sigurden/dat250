@@ -1,6 +1,6 @@
 # JPA - Experiment 2
 
-## issues                                                                   
+## Issues                                                                   
 
 Had some issues with the many to many ralations between person and address,
 but found an example online using jointable and mappedby and
