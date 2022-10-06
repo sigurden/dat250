@@ -9,7 +9,7 @@ Simple tutoriel to set up a single get entrypoint
 
 Runned by entering `./mvnw spring-boot:run` and verified by `curl http://localhost:8080/hello`
 
-Link: TODO
+Link: https://github.com/sigurden/dat250/tree/main/expass5/experiment1
 
 ## Experiment 2
 
@@ -19,7 +19,7 @@ Runned by entering `./mvnw spring-boot:run` and verified by `curl http://localho
 
 Test runned with `mvn clean test`
 
-Link: TODO
+Link: https://github.com/sigurden/dat250/tree/main/expass5/experiment2and3
 
 ## Experiment 3
 
@@ -27,7 +27,7 @@ Creating a little REST GET request enpoint that returns JSON.
 
 Runned by entering `./mvnw spring-boot:run` and verified by `curl http://localhost:8080/greeting?name=Spring`
 
-Link: TODO
+Link: https://github.com/sigurden/dat250/tree/main/expass5/experiment2and3
 
 ## Experiment 4
 
@@ -35,4 +35,4 @@ Learing to use Spring to create a JPA application.
 
 Runned by entering `./mvnw spring-boot:run` and verified result.
 
-Link: TODO
+Link: https://github.com/sigurden/dat250/tree/main/expass5/experiment4
