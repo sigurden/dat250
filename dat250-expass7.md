@@ -4,4 +4,4 @@ Had some technical difficulty when installing dependencies for rabbitMQ on Fedor
 
 Followed the tutorials in c# because I am more familiar it, and it's the language my group uses in the feed app project.
 
-Link: TODO
+Link: [CODE](https://github.com/sigurden/dat250/tree/main/expass7)
